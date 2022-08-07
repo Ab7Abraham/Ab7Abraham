@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abraham.
+- 👀 I’m interested in coding and thinking new innovative ideas.
+- 🌱 I’m currently learning java and julia.
+- 📫 Email me at ab7abraham@gmail.com
+- 💕 Feel free to mail me and initiate collab with me.
