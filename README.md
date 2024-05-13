@@ -1,7 +1,7 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg)]
 <h1 align="center">Hi 👋, I'm Abraham Prabakar</h1>
 <h3 align="center">Data Analyst with a passion for extracting insights. Skilled in Python, Java, and frontend development, I bridge the gap between data and user experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=7FB39B12DD17B6E4A79272902D3FA0A2270B41F8&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&exph=600&expw=800&q=mysterious+programmer+gif&simid=607992092253577363&FORM=IRPRST&ck=6D59F0CF44DB626D190FD917EAF3EC59&selectedIndex=31&itb=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab7abraham&label=Profile%20views&color=0e75b6&style=flat" alt="ab7abraham" /> </p>
 
