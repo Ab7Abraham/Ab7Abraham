@@ -1,7 +1,5 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg)]
 <h1 align="center">Hi 👋, I'm Abraham Prabakar</h1>
 <h3 align="center">Data Analyst with a passion for extracting insights. Skilled in Python, Java, and frontend development, I bridge the gap between data and user experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab7abraham&label=Profile%20views&color=0e75b6&style=flat" alt="ab7abraham" /> </p>
 
@@ -27,6 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abraham-prabakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham-prabakar" height="30" width="40" /></a>
 <a href="https://instagram.com/ab7abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab7abraham" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abraham_prabaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abraham_prabaka1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
